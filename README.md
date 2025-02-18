@@ -32,4 +32,4 @@
 - Participer à des projets open-source et collaboratifs.
 
 ---
-📩 **Contact** : [Ton Email ou LinkedIn]
+📩 **Contact** : abdssamad.abkhar22@gmail.com
