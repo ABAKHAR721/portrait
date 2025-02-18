@@ -23,8 +23,8 @@
 
 ## ⚙️ Outils et Workflow
 - 🔹 Git/GitHub pour le versioning
-- 🔹 CI/CD avec Jenkins, GitHub Actions
-- 🔹 Jira/Trello pour la gestion de projet Agile
+- 🔹 CI/CD avec Jenkins
+- 🔹 Jira pour la gestion de projet Agile
 
 ## 🎯 Objectifs
 - Développer des applications backend performantes et sécurisées.
